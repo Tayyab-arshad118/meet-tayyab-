@@ -1,4 +1,4 @@
-# ⚡ Meet Tayyab – Personal Portfolio Website
+# ⚡ Meet Tayyab – Personal Portfolio Website(For Practicing Tailwind)
 
 A simple, responsive portfolio to showcase who I am, the projects I’ve built, the skills I’ve picked up—and yes, I’m open to internship opportunities!
 
@@ -39,8 +39,7 @@ This portfolio gives you a quick look at my profile, projects, skills, and how y
 
 ## 🌐 Live Demo
 
-[🔗 Coming Soon](#) or replace with your deployed link.
-
+[meet-tayyab](https://meet-tayyab.netlify.app/)
 ---
 
 ## 📬 Let’s Connect
